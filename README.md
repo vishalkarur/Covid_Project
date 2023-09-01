@@ -1,5 +1,7 @@
+Covid Data Analysis(Advanced SQL)           Dec 2021
 
- Covid Data Analysis Using SQL
+● Conducted a detailed Exploratory Data Analysis (EDA) on covid data set using SQL to determine the ongoing patterns.
 
-Analysis of covid dataset using Structured Query Language (SQL) .Obtained some key insights like   Higest number of cases in a particular country , Total percentage of people vaccinated , Total nunber of deaths , Total number of recoveries , Survival rate , Death rate etc .
+● Identified crucial insights such as the country with the highest number of current cases, the highest number of recoveries etc.
 
+● Gained important technical RDBMS knowledge like Database design, Joins, Subquery, CTE, Temp Tables and window functions.
